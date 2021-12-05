@@ -1,0 +1,981 @@
+event_key,event_date,publish_date,title,content,ent_info
+2011 Sikkim earthquake,9/18/2011,,Sikkim quake: Death toll rises; losses estimated at Rs 1 lakh crore,"Four days after a devastating earthquake measuring a forceful 6.8 on the Richter scale struck large parts of north east India , rescue and relief teams are still trying to reach thousands of people trapped in remote areas . 
+Many villages in quake - hit Sikkim are still out of reach and thousands are said to be waiting for help . 
+Rescue operations remain the biggest challenge as rain and landslides are severely hampering the efforts and bad weather is not allowing helicopters to land . 
+Sikkim Chief Minister Pawan Kumar Chamling on Wednesday visited the quake - affected areas including Nanduk - one of the worst - hit villages - which is an hour 's drive from the capital Gangtok . 
+There were about 25 houses in this village but the powerful quake razed the entire village to the ground . 
+Fortunately , no casualties were reported . 
+I think loss and damage will be not less than Rs one lakh crore . ","Four|0|0|TIME|None
+6.8|9|0|NUM|mag
+India|20|0|LOC|None
+thousands|31;13|0;1|NUM|None
+Sikkim|6;0|1;3|LOC|loc
+Wednesday|7|3|TIME|None
+Nanduk|15|3|LOC|None
+one|17;11|3;6|NUM|None
+an hour|27 28|3|TIME|None
+Gangtok|34|3|LOC|None
+about 25 houses|2 3 4|4|NUM|None
+"
+2011 Sikkim earthquake,9/18/2011,,"On day three, alternative road in Sikkim opened","On the third day after a devastating quake hit the northeast , including Sikkim , the 95 - km - long alternative road from Gangtok to Mangan , the headquarters of North District of the State , was opened for vehicular traffic on Tuesday . 
+While almost all the buildings in the town have developed cracks due to the impact of the high intensity earthquake on Sunday ( 6.8 magnitude ) , the worst - hit Chungthang , about 28 km from here , and other areas such as Bay , Saffo , Pegong , still remain inaccessible . 
+The death toll in the State , according to official figures , has gone up to 50 . District Medical Superintendent 
+The Hindu that the so far bodies of 15 victims had been brought to the hospital . 
+“ I have received official intimation that a large number of bodies , which have been recovered from places like Chungthang and other worst hit areas , would be brought or post-mortem . 
+I do n't know how we are going to handle such a huge number , ” she added . 
+News is doing the rounds among the local residents of Managan , that many bodies are still buried under the debris of a tunnel of a hydel power project that collapsed under construction at Chungthang on river Teetsa . ","the third|1 2|0|TIME|None
+Sikkim|13|0|LOC|loc
+95 - km|16 17 18|0|NUM|None
+Gangtok|24|0|LOC|None
+Mangan|26|0|LOC|None
+North|31|0|LOC|None
+Tuesday|43|0|TIME|None
+Sunday|21|1|TIME|None
+6.8 magnitude|23 24|1|MAG|mag
+Chungthang|31;20;34|1;4;6|LOC|None
+about 28 km|33 34 35|1|NUM|None
+Bay|44|1|LOC|None
+Saffo|46|1|LOC|None
+Pegong|48|1|LOC|None
+50|16|2|NUM|death
+15 victims|8 9|3|NUM|None
+Managan|10|6|LOC|None
+Teetsa|37|6|LOC|None
+"
+2011 Sikkim earthquake,9/18/2011,9/20/2011,Death Toll in Himalayan Earthquake Exceeds 50,"At least 53 people were reported to have died , with 40 of them in India , 6 in Nepal and 7 in Tibet . 
+Dozens more were injured , and tens of thousands of homes and businesses were destroyed or damaged . 
+Even so , officials said , the sparseness of the population in the remote mountain region kept the death toll relatively low for such a powerful earthquake , with a magnitude of 6.8 . ","At least 53 people|0 1 2 3|0|NUM|death
+40|11|0|NUM|None
+India|15|0|LOC|None
+6|17|0|NUM|None
+Nepal|19|0|LOC|None
+7|21|0|NUM|None
+Tibet|23|0|LOC|None
+Dozens|0|1|NUM|None
+tens of thousands|6 7 8|1|NUM|None
+6.8|32|2|NUM|mag
+"
+2011 Sikkim earthquake,9/18/2011,,"Deadly earthquake rocks India, Nepal and Tibet","An eight - year - old child was among three killed after the wall of the British embassy in Nepal collapsed Dozens of people have been killed and many more injured after a magnitude 6.9 earthquake shook north - eastern India , Nepal and Tibet . 
+The epicentre of the earthquake was in India 's mountainous Sikkim state , where at least 18 people were killed . 
+Rain and landslides are hindering search and rescue operations there and officials in Sikkim fear that the toll could rise further . 
+Several earthquakes hit the region this year , but none caused major damage . 
+At least five people were killed in Nepal , police there say , and at least seven died in Tibet , China 's official Xinhua news agency reported . 
+At least six other people were killed in other Indian states . 
+Officials in all regions say the death toll is likely to rise as rescuers reach the remote mountainous areas struck by the quake . ","eight - year -|1 2 3 4|0|TIME|None
+three|9|0|NUM|None
+Nepal|19;42;7|0;0;4|LOC|None
+Dozens|21|0|NUM|None
+magnitude 6.9|33 34|0|MAG|mag
+India|40;7|0;1|LOC|None
+Tibet|44;19|0;4|LOC|None
+Sikkim|10;13|1;2|LOC|loc
+at least 18 people|14 15 16 17|1|NUM|death
+this|5|3|TIME|None
+At least five people|0 1 2 3|4|NUM|death
+at least seven|14 15 16|4|NUM|death
+China|21|4|LOC|None
+At least six other people|0 1 2 3 4|5|NUM|death
+"
+2011 Sikkim earthquake,9/18/2011,9/20/2011,Rescuers push into Himalayan quake 'ground zero',"By AFP Rescue teams faced a grim search for victims Tuesday as they converged on the remote epicentre of a powerful Himalayan earthquake that killed at least 67 people in India , Nepal and Tibet . 
+After a day spent battling landslides and heavy rains , the relief effort regrouped for an even tougher push into the mountainous northern region of India 's Sikkim state , where Sunday 's 6.9 - magnitude earthquake hit on the border with Nepal . 
+Rescuers were hoping for a break in the weather that would allow them to fly in crucial supplies and personnel by helicopters that were largely grounded Monday by monsoon downpours and low cloud . "" The biggest challenge now is to get the rescue teams to the affected areas , "" said Sikkim Information Minister C.B. Karki . The death toll from building collapses and landslides in Sikkim stood at 35 , but Indian Home Secretary R.K . 
+Singh warned the number could rise as emergency relief workers reached far - flung villages in the quake 's main impact zone . "" We can not rule out more casualties , "" Singh told a news briefing in New Delhi . 
+The few helicopter sorties carried out on Monday did manage to drop some food packages , and ferried two small medical teams with doctors and paramedics into the worst - affected districts of Mangan and Sangthan . 
+But the majority of rescue workers faced a gruelling 60 - kilometre ( 37 - mile ) journey by land from Sikkim 's state capital Gangtok along rough , badly damaged roads , more often frequented by groups of adventurous tourists heading for Himalayan trekking trails . 
+More than 5,000 army troops were mobilised across the state to help clear roads and assist with the relief operation . The Press Trust of India said 26 tourists , including 15 trekkers , had been rescued and taken to army encampments for their own safety . ","Tuesday|10|0|TIME|None
+at least 67 people|25 26 27 28|0|NUM|death
+India|30;25|0;1|LOC|None
+Nepal|32;42|0;1|LOC|None
+Tibet|34|0|LOC|None
+a|1|1|TIME|None
+Sikkim|27;67;21|1;2;5|LOC|loc
+Sunday|31|1|TIME|None
+6.9 - magnitude|33 34 35|1|MAG|mag
+Monday|26;7|2;4|TIME|None
+35|70|2|NUM|None
+New|39|3|LOC|None
+two small medical teams|18 19 20 21|4|NUM|None
+Mangan|33|4|LOC|None
+Sangthan|35|4|LOC|None
+60 - kilometre|9 10 11|5|NUM|None
+37 - mile|13 14 15|5|NUM|None
+Gangtok|25|5|LOC|None
+More than 5,000 army troops|0 1 2 3 4|6|NUM|None
+26 tourists|27 28|6|NUM|None
+15 trekkers|31 32|6|NUM|None
+"
+2011 Sikkim earthquake,9/18/2011,9/21/2011,"Sikkim quake toll 116, 400 tourists stranded","T wenty more bodies were recovered in quake - hit Sikkim , taking the toll in Sunday 's powerful 6.8 magnitude temblor to 116 , amid reports that 400 foreign tourists were stranded in the worst - affected north district . 
+The toll is likely to go up further as rescue teams still have n?t reached about 15 villages in the north district . 
+While the toll rose from 53 to 73 in Sikkim , West Bengal has reported 12 deaths , nine in Bihar , 11 in Nepal and seven in Tibet . 
+Officials said rescue teams found six bodies in East Sikkim and 14 in North as they managed to enter Dzongu from Mangan , the headquarters of North Sikkim , where the strong quake was epicentred . 
+Nearly 400 foreign tourists were stranded in North Sikkim and efforts were underway to reach them , a Union home ministry official said . 
+Defence forces struggled hard to clear mud , rocks and boulders blocking roads to reach the affected areas . 
+In Lalchung , injured and stranded passengers of a bus were rescued in an army helicopter in a daring operation as there was no place to land . ","Sikkim|10;9|0;2|LOC|loc
+Sunday|16|0|TIME|None
+6.8 magnitude|19 20|0|MAG|mag
+116|23|0|NUM|death
+400 foreign tourists|28 29 30|0|NUM|None
+about 15 villages|15 16 17|1|NUM|None
+53|5|2|NUM|death
+73|7|2|NUM|death
+West|11|2|LOC|None
+12 deaths|15 16|2|NUM|death
+nine|18|2|NUM|death
+Bihar|20|2|LOC|None
+11|22|2|NUM|None
+Nepal|24|2|LOC|None
+seven|26|2|NUM|None
+Tibet|28|2|LOC|None
+six bodies|5 6|3|NUM|None
+East|8|3|LOC|None
+14|11|3|NUM|None
+North|13;26;7|3;3;4|LOC|None
+Dzongu|19|3|LOC|None
+Mangan|21|3|LOC|None
+Nearly 400 foreign tourists|0 1 2 3|4|NUM|None
+Lalchung|1|6|LOC|None
+"
+2011 Sikkim earthquake,9/18/2011,9/19/2011,"Sikkim quake toll rises to 35, rescue on war footing","Mumbai : Even as the Border Roads Organisation restored traffic on National Highway No. - 31 and stuck rescue teams are rushing to Gangtok from Bagdogra , the death toll in the earthquake that hit almost whole of north India , particularly Sikkim on Sunday evening , rose to 35 , home secretary R K Singh today said . 
+As per latest reports , two army personnel died near Zima , north Sikkim while 11 were injured . 
+In a tragic incident , one BRO junior engineer was reported killed during a rescue operation . 
+The Ministry of Defence informed that 105 army columns are involved in the rescue operations and 2,000 affected people are accommodated in military shelters . 
+The army are also running 11 community food centres , a ministry note said . 
+In the Defence Ministry note that is also corroborated by the home secretary four Advanced Light Helicopters and five Cheetah helicopters are pressed into service . 
+One MI - 17 Helicopter at Bagdogra for distribution of food packets . Two MI - 17 helicopters of the IAF carried relief material and National Disaster Relief Force ( NDRF ) to Lachen and Mangan , the interior regions of north Sikkim , the defence ministry said . A 20 - member medical team from the Army Medical Corps ( AMC ) carrying 200 kg of essential medical supplies flew to Bagdogra from New Delhi today afternoon aboard an IAF Avro aircraf , the release said . ","Mumbai|0|0|LOC|None
+Gangtok|23|0|LOC|None
+Bagdogra|25;6;72|0;6;6|LOC|None
+India|39|0|LOC|None
+Sikkim|42;13;42|0;1;6|LOC|loc
+Sunday|44|0|TIME|None
+evening|45|0|TIME|None
+35|49|0|NUM|death
+today|56;76|0;6|TIME|None
+two army personnel|5 6 7|1|NUM|None
+Zima|10|1|LOC|None
+11|15|1|NUM|injure
+one BRO junior engineer|5 6 7 8|2|NUM|None
+105 army columns|6 7 8|3|NUM|None
+2,000 affected people|16 17 18|3|NUM|None
+11 community food centres|5 6 7 8|4|NUM|None
+four Advanced Light Helicopters|13 14 15 16|5|NUM|None
+five Cheetah helicopters|18 19 20|5|NUM|None
+One|0|6|NUM|None
+Two|13|6|NUM|None
+Lachen|33|6|LOC|None
+Mangan|35|6|LOC|None
+20 - member|50 51 52|6|NUM|None
+200 kg|64 65|6|NUM|None
+New|74|6|LOC|None
+"
+2011 Sikkim earthquake,9/18/2011,9/24/2011,What They Said: Sikkim Earthquake,"More than 100 people were killed after a 6.9 magnitude earthquake struck the northeast Indian state of Sikkim on Sunday . 
+Over 5,000 army personnel , 7,000 Indo - Tibetan border police officials and five relief teams of the National Disaster Response Force were deployed for rescue operations . 
+Here is a roundup of what several Indian newspapers and commentators had to say about the earthquake and it s aftermath : Agence France - Presse / Getty Images Congress General Secretary Rahul Gandhi and Sikkim Chief Minister Pawan Chamling stood with officials as they inspected damaged homes on the outskirts of Gangtok on Monday . 
+In a Tuesday editorial titled “ Disaster response : Much to be done ” the Asian Age said that although India has dedicated emergency response teams , there is a sense that they do n’t automatically click into gear when disaster strikes . “ There should have been , for instance , no cause for the official announcement that the Prime Minister himself has decided to oversee the post -earthquake response of the various agencies at work . 
+In a situation after an earthquake or any other natural disaster , the routine should be set and known to all — just as it is when a crime is committed or a serious traffic accident occurs , ” it said . “ While there is no guard against nature ’s fury , and no way to anticipate it , by now we do know enough about what to do when earthquakes and floods strike . ” A Wednesday editorial in The Times of India headlined “ Wake up Call ” raised critical concerns on India ’s preparedness to deal with high intensity quakes . 
+It said that though a host of safety regulations existed on paper , enforcement was flawed . 
+“ Earthquake engineering codes and quake - safe construction guidelines have been laid down by government bodies . ","More than 100 people|0 1 2 3|0|NUM|death
+6.9 magnitude|8 9|0|MAG|mag
+Sikkim|17;35|0;2|LOC|loc
+Sunday|19|0|TIME|None
+5,000 army personnel|1 2 3|1|NUM|None
+7,000|5|1|NUM|None
+five relief teams|13 14 15|1|NUM|None
+Gangtok|52|2|LOC|None
+Monday|54|2|TIME|None
+Tuesday|2|3|TIME|None
+India|20;95|3;4|LOC|None
+Wednesday|78|4|TIME|None
+"
+2011 Sikkim earthquake,9/18/2011,,"Big earthquake in Sikkim, tremors across India; 54 dead, over 100 injured","At least 54 people have been killed , 42 in India , five in Nepal and seven in Tibet , and over 100 are injured after an earthquake measuring 6.8 on the Richter Scale shook Sikkim on Sunday evening . 
+Strong tremors were also felt in parts of North and East India and parts of Bangladesh and Nepal , causing widespread panic . 
+The epicentre of the quake is said to be just 64 kilometre North - West of Gangtok . 
+( First Pictures 35 people , including two Armymen , were killed in Sikkim and many others received injuries there . 
+In Bihar , a seven - year - old girl was among two dead . 
+Latehar was one of the worst hit in India ; two people died there and wide cracks were visible on houses . 
+Roads also cracked in several places and residents ran out on the streets . ","At least 54 people|0 1 2 3|0|NUM|death
+42|8|0|NUM|death
+India|10;8|0;5|LOC|None
+five|12|0|NUM|death
+Nepal|14;17|0;1|LOC|None
+seven|16|0|NUM|death
+Tibet|18|0|LOC|None
+100|22|0|NUM|injure
+6.8|29|0|NUM|mag
+Sikkim|35;13|0;3|LOC|loc
+Sunday|37|0|TIME|None
+evening|38|0|TIME|None
+North|8|1|LOC|None
+East|10|1|LOC|None
+Bangladesh|15|1|LOC|None
+64 kilometre|10 11|2|NUM|None
+Gangtok|16|2|LOC|None
+35 people|3 4|3|NUM|None
+two Armymen|7 8|3|NUM|None
+Bihar|1|4|LOC|None
+seven - year -|4 5 6 7|4|TIME|None
+two dead|12 13|4|NUM|None
+one|2|5|NUM|None
+two people|10 11|5|NUM|None
+"
+2011 Sikkim earthquake,9/18/2011,,UP feels low-intensity tremors,"This story is from September 19 , 2011 LUCKNOW : Uttar Pradesh felt low - intensity tremors after an earthquake measuring 6.8 on the Richter scale jolted north India at around 6.15 pm on Sunday . 
+No causality was reported in the state till reports last came in . 
+The epicentre of the earthquake was in Sikkim . 
+Unconfirmed reports said the earthquake measured 3.2 on the Richter scale in north India . 
+The state Meteorological department described the quake as "" moderate intensity "" in UP . 
+However , it did not rule out the possibility of aftershocks . 
+On September 7 too , tremors were felt in some parts of the state adjoining Delhi . ","September 19 ,|4 5 6|0|TIME|None
+Uttar|10|0|LOC|None
+6.8|21|0|NUM|mag
+India|28;13|0;3|LOC|None
+6.15|31|0|TIME|None
+Sunday|34|0|TIME|None
+Sikkim|7|2|LOC|loc
+3.2|6|3|NUM|None
+UP|13|4|LOC|None
+September|1|6|TIME|None
+Delhi|15|6|LOC|None
+"
+2014 Mae Lao earthquake,5/5/2014,,"Earthquake cracks walls, roads in north Thailand","Send this page to someone via email BANGKOK , Thailand – Officials said Tuesday that one person was killed and several dozen were hurt in an earthquake that struck northern Thailand and Myanmar a day earlier , smashing windows , cracking walls and roads and damaging Buddhist temples . 
+The airport in Chiang Rai , a northern Thai city near the epicenter of the shallow magnitude 6.3 temblor , evacuated people from its terminal , where display signs and pieces of the ceiling fell . 
+There was no damage to the runway or flight disruptions , airport General Manager Damrong Klongakara said . A well - known temple near the city , the all - white Wat Rongkhun , was closed due to safety concerns after the earthquake . 
+“ The spire of the main building came off and the tiles on the roof fell off , ” Chalermchai Kositpiphat , the artist who designed the temple , told Nation TV . 
+“ I still do n’t know how we can sleep tonight . … 
+It was shaking the whole time and then aftershocks followed four to five times . ” 
+Story continues below advertisement A man points a big crack on a damaged road following a strong earthquake in Phan district of Chiang Rai province , northern Thailand , Monday , May 5 , 2014 . ","Thailand|9;30;27|0;0;6|LOC|None
+Tuesday|13|0|TIME|None
+one person|15 16|0|NUM|death
+several dozen|20 21|0|NUM|injure
+Myanmar|32|0|LOC|None
+a day|33 34|0|TIME|None
+Chiang|3|1|LOC|None
+magnitude 6.3|16 17|1|MAG|mag
+tonight|10|4|TIME|None
+four to five times|10 11 12 13|5|NUM|None
+five|12|5|NUM|None
+Phan|19|6|LOC|None
+Chiang Rai|22 23|6|LOC|None
+Monday , May 5 ,|29 30 31 32 33|6|TIME|None
+"
+2014 Mae Lao earthquake,5/5/2014,,"Strong earthquake shakes northern Thailand, Myanmar","A strong earthquake shook northern Thailand and Myanmar on Monday evening , smashing windows , cracking walls and roads and damaging Buddhist temples . 
+No casualties were reported . 
+The airport in Chiang Rai , a northern Thai city near the epicenter of the 6.3 - magnitude temblor , evacuated people from its terminal , where display signs and pieces of the ceiling fell . 
+There was no damage to the runway or flight disruptions , airport General Manager Damrong Klongakara said . A well - known temple in the city , the all - white Wat Rongkhun , was closed due to safety concerns after the earthquake . "" The spire of the main building came off and the tiles on the roof fell off , "" Chalermchai Kositpiphat , the artist who designed the temple , told Nation TV . 
+"" I still do n't know how we can sleep tonight . 
+It was shaking the whole time and then aftershocks followed four to five times . 
+It will bring more damages each time an aftershock happens , I 'm afraid . "" The murals are also damaged because the pillars were shaken badly , "" Chalermchai said . ","Thailand|5|0|LOC|None
+Myanmar|7|0|LOC|None
+Monday|9|0|TIME|None
+Chiang|3|2|LOC|None
+6.3 - magnitude|15 16 17|2|MAG|mag
+tonight|10|4|TIME|None
+four to five times|10 11 12 13|5|NUM|None
+five|12|5|NUM|None
+"
+2014 Mae Lao earthquake,5/5/2014,5/6/2014,Pictured: Thailand earthquake splits road in two causing devastating damage to ground,"Sign up to FREE email alerts from Mirror - daily news 
+We have more newsletters Show me See our privacy notice Invalid Email These startling pictures show a road being torn apart by an earthquake in Thailand . 
+Luckily nobody was injured in the magnitude - 6.0 quake , which struck 6 miles south of Mae Lao and 17 miles southwest of the town of Chiang Rai on Monday . 
+Tall buildings swayed in the Thai capital of Bangkok , 500 miles to the south . 
+The quake also was felt in Yangon , the capital of neighboring Myanmar . A Chiang Rai police officer said : "" There has been minor damage to buildings in Chiang Rai itself , some shops have goods scattered about and we 're seeing cracks in buildings . "" No injuries have been reported so far but we 're hearing that some provincial roads have sustained some damage with large cracks appearing . "" 
+The quake initially was detected as magnitude - 6.3 , but the USGS slightly downgraded the severity minutes later . 
+The region is mostly rural but is popular with tourists . ","Thailand|25|1|LOC|loc
+6 miles|13 14|2|NUM|None
+Mae Lao|17 18|2|LOC|loc
+17 miles|20 21|2|NUM|None
+Chiang|27;15;30|2;4;4|LOC|None
+Monday|30|2|TIME|None
+Bangkok|8|3|LOC|None
+500 miles|10 11|3|NUM|None
+Yangon|6|4|LOC|None
+Myanmar|12|4|LOC|None
+6.3|8|5|NUM|mag
+"
+2014 Mae Lao earthquake,5/5/2014,5/5/2014,6.0 earthquake shakes northern Thailand,"A 6.0 magnitude earthquake shook northern Thailand on Monday evening , the U.S. Geological Survey said . 
+The temblor happened at 6:08 p.m. ( 7:08 a.m. ET ) , centered about 6 miles south of Mae Lao at a depth of 4.6 miles . 
+It was centered about 30 miles southeast of Thailand 's border with Myanmar and about 60 miles west of Thailand 's border with Laos . ","6.0 magnitude|1 2|0|MAG|mag
+Thailand|6;8;19|0;2;2|LOC|loc
+Monday|8|0|TIME|None
+6:08|4|1|TIME|None
+7:08 a.m.|7 8|1|TIME|None
+about 6 miles|13 14 15|1|NUM|None
+Mae Lao|18 19|1|LOC|loc
+4.6 miles|24 25|1|NUM|None
+about 30 miles|3 4 5|2|NUM|None
+Myanmar|12|2|LOC|None
+about 60 miles|14 15 16|2|NUM|None
+Laos|23|2|LOC|None
+"
+2013 Balochistan earthquakes,9/24/2013,9/24/2013,Deadly earthquake in Pakistan causes new island to emerge,"A massive earthquake struck near the southern coast of Pakistan today , killing upwards of 100 people , injuring dozens more , and leading to the formation of a small rocky island , according to multiple reports . 
+The epicenter of the 7.7 - magnitude quake was in the district of Awaran , a remote and mountainous area where at least 45 people were killed , the BBC said . 
+Another 150 died in the nearby Balochistan province , according to Pakistan 's Express Tribune newspaper . 
+The island , which is reportedly about 30 feet high and nearly 100 feet in diameter , is located in the Arabian Sea nearly a mile off the nation 's shoreline . 
+More than 1,000 could be dead Zahid Rafi , a principal seismologist at Pakistan 's National Seismic Monitoring Center , told CNN that the island 's formation was "" not surprising , "" given how powerful the earthquake was . 
+CNN says the quake 's tremors lasted about two minutes and that aftershocks could be felt in Karachi , hundreds of miles southeast of Awaran . 
+The BBC added that the quake could be felt into Delhi , India 's capital . ","Pakistan|9;11;13|0;2;4|LOC|loc
+today|10|0|TIME|None
+100 people|15 16|0|NUM|death
+dozens|19|0|NUM|injure
+7.7 - magnitude|4 5 6|1|MAG|mag
+Awaran|13;24|1;5|LOC|None
+at least 45 people|21 22 23 24|1|NUM|death
+150|1|2|NUM|None
+Balochistan|6|2|LOC|loc
+about 30 feet|6 7 8|3|NUM|None
+nearly 100 feet|11 12 13|3|NUM|None
+the Arabian|20 21|3|LOC|None
+nearly a mile|23 24 25|3|NUM|None
+More than 1,000|0 1 2|4|NUM|None
+about two|7 8|5|TIME|None
+Karachi|17|5|LOC|None
+hundreds of miles|19 20 21|5|NUM|None
+Delhi|10|6|LOC|None
+India|12|6|LOC|None
+"
+2013 Balochistan earthquakes,9/24/2013,9/24/2013,"Pakistan earthquake creates new island, 'mud volcano' to blame","Mud houses in the mountains crumbled as a 7.7 - magnitude earthquake shook western Pakistan early on Tuesday . 
+Meanwhile , on the coast , residents of Gwadar saw a solitary island rise from the sea . 
+Older residents of the coastal town said the land emergence was déjà vu — an earthquake in 1968 produced an island that stayed for one year and then vanished , Ali Mohammad , 60 , and Azeem Baloch , 57 , told NBC News . Seismologists suspect the island is a temporary formation resulting from a "" mud volcano , "" a jet of mud , sand and water that gushed to the surface as the temblor churned and pressurized that slurry under the ocean floor . "" Sandy layers underground are shaken , and sand grains jiggle and become more compact , "" John Armbruster , a seismologist at the Lamont Doherty Earth Observatory at Columbia University told NBC News . 
+The shifting sand layers are compacted and pressurize the water , which gushed upwards , carrying mud and sand along with it . 
+Let our news meet your inbox . 
+The news and stories that matters , delivered weekday mornings . 
+This site is protected by recaptcha This "" liquefaction "" of sand and mud layers take place after any earthquake , but these sudden islands are usually spotted after strong earthquakes , at least 7 - or 8 - magnitude events . ","7.7 - magnitude|8 9 10|0|MAG|mag
+Pakistan|14|0|LOC|loc
+Tuesday|17|0|TIME|None
+Gwadar|8|1|LOC|None
+1968|17|2|TIME|None
+one|24|2|TIME|None
+60|33|2|TIME|None
+57|39|2|TIME|None
+weekday|8|5|TIME|None
+mornings|9|5|TIME|None
+7|34|6|NUM|None
+8 - magnitude|37 38 39|6|MAG|None
+"
+2013 Balochistan earthquakes,9/24/2013,9/24/2013,Death toll from Balochistan earthquake rises to 217,"At least 217 people were killed and 350 others were wounded after a 7.7 magnitude earthqauke struck the southwestern province of Balochistan , which also prompted a new island to rise from the sea just off Pakistan 's southern coast , officials said . 
+Home Secretary Asad Gilani told Dawn.com on Wednesday that the earthquake had claimed the lives of 208 people and injured 350 others . 
+Furthermore , the deaths of seven more people were reported from Turbat city in Kech district of Balochistan . 
+He added that the long distance and disrupted road routes were causing obstacles to the relief efforts . 
+Chief Minister Balochistan Dr Abdul Malik Baloch had earlier declared an emergency in Awaran and five other districts and had ordered deputy commissioners of all 30 districts of the province to remain on high alert in the aftermath of deadly quake . 
+Army and Frontier Corps troops were called in to carry out rescue and relief work . A large number of people were rescued from the debris of houses and the injured were given emergency medical aid by army and FC doctors and paramedics . 
+“ Over 80 per cent mud-houses have collapsed or have been badly damaged in Awaran , ” Chief Secretary Babar Yaqoob Fateh Mohammad told Dawn , adding that casualties and losses in several remote areas had also been reported but rescue teams had not been able to reach those places till late in the night . ","At least 217 people|0 1 2 3|0|NUM|death
+350 others|7 8;20 21|0;1|NUM|injure
+7.7 magnitude|13 14|0|MAG|mag
+Balochistan|21;17;2|0;2;4|LOC|loc
+Pakistan|36|0|LOC|loc
+Wednesday|7|1|TIME|None
+208 people|16 17|1|NUM|None
+seven more people|5 6 7|2|NUM|None
+Turbat|11|2|LOC|None
+Kech|14|2|LOC|None
+Awaran|13;14|4;6|LOC|None
+five other districts|15 16 17|4|NUM|None
+30 districts|25 26|4|NUM|None
+late in the|51 52 53|6|TIME|None
+"
+2013 Balochistan earthquakes,9/24/2013,9/27/2013,"More than 100,000 left homeless after Pakistan earthquake","An earthquake survivor searches for belongings in the rubble of a mud house Thursday after it collapsed because of a quake in Balochistan 's Awaran district in southwestern Pakistan . 
+Naseer Ahmed / Reuters Survivors of a 7.7 - magnitude earthquake that hit a remote region in Pakistan 's province of Balochistan Tuesday wait in searing heat for government aid to arrive as more than 100,000 people have been left homeless by the disaster , which has killed at least 515 people . 
+Babar Yaqoob , chief secretary of Balochistan , gave the updated death toll Friday as he was touring the destroyed district of Awaran , where the earthquake struck . 
+Survivors spent another night in the open or under makeshift shelters Thursday night as response teams struggled to reach the remote region in the southwestern province . 
+The population of Awaran is scattered over more than 13,000 square miles of rugged terrain , where infrastructure is limited and there are few medical facilities or even roads . 
+Deadly earthquake strikes Pakistan Desperate conditions Al Jazeera 's Kamal Hyder , reporting from Awaran Thursday , said conditions were desperate among the survivors and many were going without food , water and shelter , having lost everything in the quake . 
+Doctors in a village treated some of the injured , but because of a scarcity of medicine and staff , they were mostly just comforting residents . ","Thursday|13;11;15|0;3;5|TIME|None
+Balochistan|22;21;6|0;1;2|LOC|loc
+Awaran|24;22;3;14|0;2;4;5|LOC|None
+Pakistan|28;17;3|0;1;5|LOC|loc
+7.7 - magnitude|7 8 9|1|MAG|mag
+Tuesday|22|1|TIME|None
+more than 100,000 people|33 34 35 36|1|NUM|None
+at least 515 people|48 49 50 51|1|NUM|death
+Friday|13|2|TIME|None
+another|2|3|TIME|None
+night|12|3|TIME|None
+more than 13,000 square miles|7 8 9 10 11|4|NUM|None
+"
+2013 Balochistan earthquakes,9/24/2013,9/27/2013,Pakistan’s “Earthquake Island” Seen From Space,"On the afternoon of Tuesday September 24 , 2013 , a 7.7 - magnitude earthquake struck Balochistan province in southern Pakistan , causing widespread destruction across several districts during more than 2 minutes of powerful tremors and shaking . 
+Sadly at least 400 people were killed ( some reports say 600 ) and over 100,000 have been left homeless . 
+But a weirder — if much less tragic — effect of the quake that was soon reported worldwide was the sudden appearance of a new island off the coast , a mound of mud and bubbling methane seeps rising nearly 20 meters ( 70 feet ) from the ocean surface . 
+The image above , taken by NASA ’s Earth Observing - 1 satellite , shows the newly - formed mud island a kilometer ( 0.6 miles ) off the Gwadar coast . 
+According to an article by the Pakistani news site Dawn.com , the 250 - by - 100 - foot - long pile of mud and rocks is leaking flammable gases . “ Our team found bubbles rising from the surface of the island which caught fire when a match was lit and we forbade our team to start any flame , ” said Mohammad Danish , a marine biologist from Pakistan ’s National Institute of Oceanography . 
+“ It is methane gas . ” Pakistan ’s many earthquakes are the result of collisions between the Indian , Arabian , and Eurasian tectonic plates . 
+These sorts of mud volcanoes are not particularly unusual after large quakes there … ","the afternoon of Tuesday September 24 ,|1 2 3 4 5 6 7|0|TIME|None
+7.7 - magnitude|11 12 13|0|MAG|mag
+Balochistan|16|0|LOC|loc
+Pakistan|20;70;7|0;4;5|LOC|loc
+more than 2|29 30 31|0|TIME|None
+at least 400 people|1 2 3 4|1|NUM|death
+600|11|1|NUM|injure
+over 100,000|14 15|1|NUM|None
+nearly 20 meters ( 70 feet|39 40 41 42 43 44|2|NUM|None
+a kilometer|21 22|3|NUM|None
+0.6 miles|24 25|3|NUM|None
+the Gwadar|28 29|3|LOC|None
+250 - by - 100 - foot - long pile|12 13 14 15 16 17 18 19 20 21|4|NUM|None
+"
+2013 Balochistan earthquakes,9/24/2013,9/28/2013,The ticking time bomb beneath Quetta,"The Awaran district in Balochistan is the worst affected area of the September 24 , 2013 earthquake . 
+Killing at least 359 people , the massive quake razed homes and destroyed the district 's infrastructure ; tremors also affected dozens of towns in six other districts of the province . 
+Days after the earthquake , owing to severe damages to communication means and militancy , the survivors are still awaiting relief and rehabilitation . 
+According to the United States Geological Survey ( USGS ) , the quake measured 7.7 on the Richter scale , with the epicenter laying 96 kilometres north of Awaran at a depth of 20 kilometres – and was the result of the very active Chaman fault . 
+The jolts were felt across Pakistan , prompting people in many cities , like Karachi , Hyderabad , Quetta and Kashmir to evacuate homes and offices . 
+Both , the April 2013 earthquake in Mashkhel and the September 2013 earthquake in Awaran have raised concerns about the threat of a massive impending earthquake , specifically in the Quetta region . 
+The calm before the storm Din Muhammad Kakar , Assistant Professor in Geology at the University of Balochistan warns that elevated stress in the faults near Quetta is a strong indicator of an imminent earthquake . ","The Awaran|0 1|0|LOC|None
+Balochistan|4|0|LOC|loc
+at least 359 people|1 2 3 4|1|NUM|death
+dozens|21|1|NUM|None
+six other districts|25 26 27|1|NUM|None
+Days|0|2|TIME|None
+7.7|14|3|NUM|mag
+96 kilometres|24 25|3|NUM|None
+Awaran|28;14|3;5|LOC|None
+20 kilometres|33 34|3|NUM|None
+Pakistan|5|4|LOC|None
+Karachi|14|4|LOC|loc
+Hyderabad|16|4|LOC|None
+Quetta|18;30;26|4;5;6|LOC|None
+Kashmir|20|4|LOC|None
+Mashkhel|7|5|LOC|None
+"
+2013 Balochistan earthquakes,9/24/2013,,"Pakistan quake toll reaches 515, insurgents hamper aid efforts","The death toll from an earthquake in southwestern Pakistan has reached 515 , with insurgent attacks threatening relief efforts and survivors complain of lack of shelter from the scorching sun . Babar Yaqoob , the Chief Secretary of Baluchistan , gave the updated death toll as he toured the destroyed region of Awaran , where the 7.7 magnitude quake struck on Tuesday . A 6.8 magnitude aftershock jolted the same region today , bringing down more buildings amid ongoing search and rescue efforts . 
+At least five people were killed in today ’s quake . 
+Bodies are still being discovered in houses whose mud walls and wooden roof beams had collapsed on Tuesday . 
+“ My daughter was killed when my house collapsed - I was also inside my house but manage to run out , ” said 70 - year - old Gul Jan . 
+“ We are sitting under the scorching sun and need shelter . ” 
+In Labash village near Awaran , more than half of the 3,000 houses have collapsed and those still standing have wide cracks . 
+“ Everywhere we go people are asking for tents , ” local politician Abdul Qadeer Baloch said . ","Pakistan|8|0|LOC|loc
+515|11|0|NUM|death
+Baluchistan|38|0|LOC|None
+Awaran|52;4|0;5|LOC|None
+7.7 magnitude|56 57|0|MAG|None
+Tuesday|61;17|0;2|TIME|None
+6.8 magnitude|64 65|0|MAG|None
+today|71;7|0;1|TIME|None
+At least five people|0 1 2 3|1|NUM|death
+70 - year -|24 25 26 27|3|TIME|None
+Labash|1|5|LOC|None
+more than half|6 7 8|5|NUM|None
+3,000 houses|11 12|5|NUM|None
+"
+2013 Balochistan earthquakes,9/24/2013,,Pakistan earthquake: Hundreds dead in Balochistan,"Media playback is unsupported on your device Media caption 
+The BBC 's Shahzeb Jillani : "" The scale of the disaster is beginning to unfold "" A powerful earthquake has killed at least 328 people and wounded hundreds more in Pakistan 's remote south - west province of Balochistan . 
+The 7.7 - magnitude quake struck on Tuesday afternoon at a depth of 20 km ( 13 miles ) north - east of Awaran , the US Geological Survey said . 
+Many houses were flattened and thousands of people have spent the night in the open . 
+After the quake , an island appeared off the coast near the port of Gwadar . 
+People gathered on the beach to see the new island , which is reported to be about 200 m ( 656 ft ) long , 100 m wide and 20 m high , and scientists have been sent to survey it . 
+Officials say such land masses have appeared before in the area , and usually disappear again over time . ","at least 328 people|22 23 24 25|1|NUM|death
+hundreds|28|1|NUM|injure
+Pakistan|31|1|LOC|loc
+Balochistan|39|1|LOC|loc
+7.7 - magnitude|1 2 3|2|MAG|mag
+Tuesday|7|2|TIME|None
+20 km ( 13 miles|13 14 15 16 17|2|NUM|None
+Awaran|23|2|LOC|None
+US|26|2|LOC|None
+thousands|5|3|NUM|None
+Gwadar|14|4|LOC|None
+about 200 m|16 17 18|5|NUM|None
+656 ft )|20 21 22|5|NUM|None
+100 m|25 26|5|NUM|None
+20 m high|29 30 31|5|NUM|None
+"
+2013 Balochistan earthquakes,9/24/2013,9/28/2013,New earthquake strikes hard-hit Pakistan,"A new powerful earthquake struck Saturday in southwestern Pakistan , shaking an area already trying to recover from a quake that killed more than 300 people . 
+The 6.8 magnitude earthquake struck in Balochistan province Saturday about 96 kilometers ( 60 miles ) northeast of Awaran , the United States Geological Survey said . 
+Rasheed Baloch , the Deputy Commissioner Awaran told CNN seven people died when a house collapsed in Mashkay Tehsil as result of new earthquake on Saturday . 
+Just Tuesday , a 7.7 magnitude earthquake struck the same area of Pakistan . 
+The death toll in that quake has risen to 366 people and another 765 are injured . 
+Authorities estimate that 21,000 houses were destroyed in Tuesday 's earthquake . 
+But Rasheed Baloch , deputy commissioner for Awaran district , told CNN more than 60 mud-walled buildings had collapsed in the Nok Jo area of the district . ","Saturday|5;8;25|0;1;2|TIME|None
+Pakistan|8;12|0;3|LOC|loc
+more than 300 people|22 23 24 25|0|NUM|death
+6.8 magnitude|1 2|1|MAG|mag
+Balochistan|6|1|LOC|loc
+about 96 kilometers ( 60 miles|9 10 11 12 13 14|1|NUM|None
+Awaran|18;7|1;6|LOC|None
+the United|20 21|1|LOC|None
+seven people|9 10|2|NUM|None
+Mashkay|17|2|LOC|None
+Just|0|3|TIME|None
+7.7 magnitude|4 5|3|MAG|None
+366 people|9 10|4|NUM|None
+765|13|4|NUM|death
+21,000 houses|3 4|5|NUM|None
+Tuesday|8|5|TIME|None
+more than 60 mud-walled buildings|12 13 14 15 16|6|NUM|None
+Nok|21|6|LOC|None
+"
+2013 Balochistan earthquakes,9/24/2013,9/24/2013,Massive deadly earthquake in Pakistan - Satellite Spot images used for detection of the destruction,"By This page will automatically refresh every 60 minutes as we might be adding regular updates . 
+Keep it open in a browser tab . 
+Also written by Jens Skapski . 
+- Update 16:24 UTC - October 1 : The Pakistan Disaster Management Authority has released new data of the fatalities after both earthquakes of last week . 
+A Total of 825 people have lost their live ( 780 during and after the mainshock and 45 during and after the aftershock ) . 
+This new report arrived after our 09:24 update . 
+This makes the Pakistan earthquake sadly enough the most deadly one since the Japan Tsunami . ","every 60|6 7|0|TIME|None
+16:24 UTC - October|2 3 4 5|3|TIME|None
+last|24|3|TIME|None
+825 people|3 4|4|NUM|death
+780|10|4|NUM|death
+45|17|4|NUM|death
+09:24|6|5|TIME|None
+Pakistan|3|6|LOC|loc
+"
+2013 Balochistan earthquakes,9/24/2013,9/20/2013,New earthquake strikes Pakistan's Balochistan,"At least 15 people have died in a new earthquake in the southwestern Pakistani province of Balochistan , where hundreds of people have already died and thousands more been affected by a previous tremor . Saturday 's earthquake measured 6.8 in magnitude , and occurred about 96 km northeast of the city of Awaran , the US Geological Survey ( USGS ) said on Saturday . 
+It was not an aftershock it was an independent earthquake Zahid Rafi , director of the National Seismic Centre of Pakistan The quake occurred at a depth of 14.8 km , which was similar to Tuesday 's 7.7 magnitude earthquake . 
+The epicentres of the two tremors were about 30 km apart , according to USGS data . "" It was not an aftershock it was an independent earthquake , "" Zahid Rafi , director of the National Seismic Centre of Pakistan , told local news television station Geo TV . "" We are hearing that several districts have been affected , there are preliminary reports coming in of damage , "" Al Jazeera 's Kamal Hyder reported from Awaran . 
+An AFP news agency reporter in Awaran said that hundreds of patients being treated in the aftermath of the previous quake fled a hospital in panic as the new tremor hit . "" We are checking but no reports of losses have yet been received , "" Jan Mohammad Buledi , spokesman for the provincial government , told AFP . 
+Relief activities hampered At least 359 people were killed , and another 765 injured , when Tuesday 's earthquake struck the impoverished region of southwestern Pakistan , according to the Provincial Disaster Management Authority 's official figures . 
+Unofficial estimates put the number of dead at more than 500 . 
+The government says that more than 185,000 people have been affected by the tremor , and that rescue and relief activities are being undertaken by the civil administration in conjunction with the army . ","At least 15 people|0 1 2 3|0|NUM|death
+Balochistan|16|0|LOC|loc
+hundreds|19;9|0;3|NUM|death
+thousands|26|0|NUM|None
+Saturday|35;64|0;0|TIME|None
+6.8|39|0|NUM|mag
+about 96 km|45 46 47|0|NUM|None
+Awaran|53;78;6|0;2;3|LOC|None
+14.8 km|28 29|1|NUM|None
+Tuesday|35;16|1;4|TIME|None
+7.7 magnitude|37 38|1|MAG|None
+two tremors|4 5|2|NUM|None
+about 30 km|7 8 9|2|NUM|None
+At least 359 people|3 4 5 6|4|NUM|None
+765|12|4|NUM|death
+Pakistan|25|4|LOC|None
+more than 500|8 9 10|5|NUM|None
+more than 185,000 people|4 5 6 7|6|NUM|None
+"
+2013 Balochistan earthquakes,9/24/2013,,Earthquake in remote Pakistan,"Survivors of an earthquake that struck rural Pakistan earlier this week are still waiting for aid , an effort being hampered because militants in the region have been attacking government troops as they try to deliver relief supplies . 
+The quake , which measured 7.7 in magnitude , has claimed more than 350 lives , injured more than 750 , and damaged dozens of homes . 
+Most of the victims were crushed when the walls of their mud brick houses caved in . 
+Residents said the quake hit during the few hours of the day when the village had electricity , so many children were at home watching television . ","Pakistan|7|0|LOC|loc
+earlier this|8 9|0|TIME|None
+7.7|5|1|NUM|mag
+more than 350 lives|11 12 13 14|1|NUM|death
+more than 750|17 18 19|1|NUM|injure
+dozens|23|1|NUM|None
+the few hours of the|6 7 8 9 10|3|TIME|None
+"
+2011 Van earthquakes,10/23/2011,10/24/2011,Turkey's Deadly Earthquake Explained,"The magnitude 7.2 earthquake that rattled eastern Turkey on Sunday ( Oct. 23 ) was a rare , powerful temblor for the area , but not entirely a surprise given the web of active faults in the region , earthquake scientists say . 
+Turkey rumbles often and has seen many destructive earthquakes throughout recorded history . 
+The last major quake to strike the country was the Izmit earthquake of 1999 , a magnitude 7.6 to the west of the Oct. 23 quake , which killed 17,000 people , injured 50,000 and left 500,000 homeless . 
+Magnitude 7 earthquakes do n't happen very often in the area , but that does n't mean it 's surprising to see one there . "" We pretty much expect this sort of thing , "" said Don Blakeman , a geophysicist with the U.S. Geological Survey in Golden , Colo . The Oct. 23 quake struck in the afternoon , about 9 miles ( 16 kilometers ) north - northeast of the city of Van . 
+The quake ruptured 12.4 miles ( 20 km ) underground . 
+In Eastern Turkey , the Arabian Plate — a huge slab of the Earth 's crust — is slowly smashing into the Eurasian Plate at a speed of less than 1 inch per year ( 24 millimeters per year ) . 
+In Western and Central Turkey the movement is different , and the evidence of the country 's complex tectonics is seen in the east - west running mountain range of western Turkey and the north - south mountains to the east , Blakeman said . ","magnitude 7.2|1 2|0|MAG|mag
+Turkey|7;0;31|0;1;6|LOC|loc
+Sunday ( Oct.|9 10 11|0|TIME|None
+1999|13|2|TIME|None
+magnitude 7.6|16 17|2|MAG|None
+Oct.|23;53|2;3|TIME|None
+17,000 people|29 30|2|NUM|None
+50,000|33|2|NUM|None
+500,000|36|2|NUM|None
+7 earthquakes|1 2|3|NUM|None
+Golden|48|3|LOC|None
+Colo|50|3|LOC|None
+the|58|3|TIME|None
+about 9 miles|61 62 63|3|NUM|None
+16 kilometers )|65 66 67|3|NUM|None
+Van|75|3|LOC|loc
+12.4 miles|3 4|4|NUM|None
+20 km )|6 7 8|4|NUM|None
+Eastern|1|5|LOC|None
+the Arabian|4 5|5|LOC|None
+Earth|13|5|LOC|None
+the Eurasian|21 22|5|LOC|None
+less than 1 inch|28 29 30 31|5|NUM|None
+24 millimeters|35 36|5|NUM|None
+Central|3|6|LOC|None
+Blakeman|42|6|LOC|None
+"
+2011 Van earthquakes,10/23/2011,10/23/2011,Hundreds Killed In Turkey As Quake Levels Buildings,"Hundreds Killed In Turkey As Quake Levels Buildings Enlarge this image toggle caption Abdurrahman Antakyali / AFP / Getty Images 
+A major earthquake collapsed several buildings in eastern Turkey , trapping an unknown number citizens under debris in Van Province . 
+Abdurrahman Antakyali / AFP / Getty Images A magnitude - 7.2 earthquake struck eastern 
+Turkey on Sunday , killing scores of people and sparking widespread panic as it collapsed dozens of buildings into piles of twisted steel and chunks of concrete . 
+Tens of thousands of residents fled into the streets running , screaming and trying to reach relatives on cellphones . 
+As the full extent of the damage became clear , desperate survivors dug into the rubble with their bare hands , trying to rescue the trapped and the injured . 
+The Interior Minister put the death toll so far at 217 . Heard on Weekend Edition Sunday NPR 's Peter Kenyon Reports Listen Turkey 's state - run television TRT said a group of inmates escaped from a prison after the earthquake struck . ","Hundreds|0|0|NUM|death
+Turkey|8;0;23|1;3;6|LOC|loc
+Van|18|1|LOC|loc
+Sunday|2;16|3;6|TIME|None
+scores|5|3|NUM|None
+dozens|15|3|NUM|None
+Tens of thousands|0 1 2|4|NUM|None
+217|10|6|NUM|death
+Weekend|14|6|TIME|None
+"
+2011 Van earthquakes,10/23/2011,,7.2-mag earthquake strikes Turkey; 217 dead,"Updated 12:40 a.m. ET ANKARA , Turkey - A powerful 7.2 - magnitude earthquake struck eastern 
+Turkey on Sunday , killing more than 200 people and sparking widespread panic as it collapsed dozens of buildings into piles of twisted steel and chunks of concrete . 
+News correspondent Mark Phillips reports that the ground shook for thirty seconds . 
+The quake was strong enough to cause serious damage , and be felt over an area of hundreds of square miles . 
+It was also shallow enough -- about fifteen miles below the surface -- to cause maximum casualties , and panic among local residents . 
+Reuters is reporting that Interior Minister Idris Naim Sahin said the 7.2 magnitude quake on Sunday killed 100 in the city of Van and 117 in the badly hit town of Ercis , 60 miles further north . 
+The death toll was expected to rise . ","12:40 a.m.|1 2|0|TIME|None
+ANKARA|4|0|LOC|None
+Turkey|6;0|0;1|LOC|loc
+7.2 - magnitude|10 11 12|0|MAG|mag
+Sunday|2;15|1;5|TIME|None
+more than 200 people|5 6 7 8|1|NUM|death
+dozens|16|1|NUM|None
+thirty|10|2|TIME|None
+hundreds of square miles|17 18 19 20|3|NUM|None
+about fifteen miles|6 7 8|4|NUM|None
+7.2 magnitude|11 12|5|MAG|mag
+100|17|5|NUM|None
+Van|22|5|LOC|loc
+117|24|5|NUM|None
+Ercis|31|5|LOC|None
+60 miles|33 34|5|NUM|None
+"
+2011 Van earthquakes,10/23/2011,,Turkey earthquake reveals a new active fault zone,"( Image : KeystoneUSA - ZUMA / Rex Features ) An earthquake of magnitude 7.2 struck Turkey yesterday , killing more than 200 people and injuring thousands . 
+Turkey is one of the most quake - prone countries in the world . 
+Most of it lies on the Anatolian plate , a small wedge - shaped tectonic plate that is being squeezed westwards as the Arabian plate to the east slams into the Eurasian plate . 
+Many of Turkey ’s most severe quakes occur on one of the two faults that flank the Anatolian plate – the north and the east Anatolian faults . 
+Between 1939 and 1999 Turkey ’s major earthquakes were marching westward along the north Anatolian fault , prompting fears that Istanbul – which lies near the fault – would eventually shake . 
+In 1999 a magnitude - 7.6 quake struck near Izmit , just 70 kilometres from Istanbul , killing around 17,000 people . 
+Advertisement Since 2003 , however , activity has shifted to the east Anatolian fault . ","magnitude 7.2|13 14|0|MAG|mag
+Turkey|16;0;2;4|0;1;3;4|LOC|None
+yesterday|17|0|TIME|None
+more than 200 people|20 21 22 23|0|NUM|death
+thousands|26|0|NUM|injure
+one|9|3|NUM|None
+two faults|12 13|3|NUM|None
+Between 1939 and|0 1 2|4|TIME|None
+Istanbul|20;15|4;5|LOC|None
+1999|1|5|TIME|None
+Izmit|9|5|LOC|None
+just 70 kilometres|11 12 13|5|NUM|None
+around 17,000 people|18 19 20|5|NUM|None
+2003|2|6|TIME|None
+"
+2011 Van earthquakes,10/23/2011,,A Geologist's-Eye-View of the Van Earthquake,"The death toll from Sunday 's magnitude 7.2 earthquake in the Van Province in eastern Turkey has now risen to over 500 people , and will undoubtedly continue to rise as rescuers continue to search the hundreds of buildings that collapsed during the shaking . 
+The tectonic forces ultimately responsible are quite straightforward to explain , but as is often the case , the picture becomes more complicated when we take a closer look - a fact that has consequences for the people caught up in this disaster . 
+The big tectonic picture The most well - known seismic hazard in Turkey is probably the North Anatolian Fault , a major strike - slip fault which runs along the south of the Black Sea and underneath Istanbul , and has a long history of damaging earthquakes . 
+The East Anatolian Fault , another strike slip fault that runs southwest from eastern Turkey to the Mediterranean , is another well - known source of large earthquakes . 
+But Sunday 's earthquake occurred some way to the east of these structures , in a high region known as the East Anatolian Plateau that has also seen its fair share of large earthquakes in the past . 
+The focal mechanism shows that the latest rupture was due to movement on a thrust fault , a response to the crust around it being compressed in a north - south direction . 
+As the figure to the left illustrates , this region is on the boundary between two regions with very different tectonics . ","Sunday|4;1|0;4|TIME|None
+magnitude 7.2|6 7|0|MAG|mag
+the Van Province|10 11 12|0|LOC|loc
+Turkey|15;12;14|0;2;3|LOC|loc
+500 people|21 22|0|NUM|death
+hundreds|36|0|NUM|None
+the North Anatolian|15 16 17|2|LOC|None
+the Black|32 33|2|LOC|None
+Istanbul|37|2|LOC|None
+The East Anatolian|0 1 2|3|LOC|None
+Mediterranean|17|3|LOC|None
+the East Anatolian|20 21 22|4|LOC|None
+two regions|15 16|6|NUM|None
+"
+2011 Van earthquakes,10/23/2011,10/24/2011,Turkey earthquake: Why the country is such a hot spot for seismic activity,"As rescuers search through rubble hunting for survivors following Sunday 's magnitude 7.2 earthquake in eastern Turkey , scientists describe a country whose landscape continues to be sculpted and herded by ever-shifting plates of Earth 's crust . 
+The quake 's epicenter was situated some 10 miles east of Lake Van , a salt lake that covers 1,450 square miles . 
+Seismologists estimate that the crust ruptured some 12 miles below the surface . 
+Authorities say the city of Ercis may have been the hardest hit . 
+Located about nine miles east of the epicenter , the city of some 75,000 people saw 80 multiple - story buildings collapse , according to press reports . 
+The city of Van , on the eastern shore of the lake , also saw many homes and buildings crumble . 
+The death toll throughout the region from the quake stands at 272 so far . ","Sunday|9|0|TIME|None
+magnitude 7.2|11 12|0|MAG|mag
+Turkey|16|0|LOC|loc
+Earth|34|0|LOC|None
+some 10 miles|6 7 8|1|NUM|None
+Lake|11|1|LOC|None
+1,450 square miles|19 20 21|1|NUM|None
+some 12 miles|6 7 8|2|NUM|None
+Ercis|5|3|LOC|None
+about nine miles|1 2 3|4|NUM|None
+some 75,000 people|12 13 14|4|NUM|None
+80|16|4|NUM|None
+Van|3|5|LOC|loc
+272|11|6|NUM|None
+"
+2011 Van earthquakes,10/23/2011,10/27/2011,Timeline: Major earthquakes in Turkey,"( Reuters ) - The search for survivors went on at some sites in Turkey Thursday , days after a 7.2 magnitude earthquake struck the country , killing at least 520 people . 
+Here is a timeline of major earthquakes in Turkey since World War Two . December 26 , 1939 - Around 32,700 people are killed in the eastern city of Erzincan after a quake of 7.8 magnitude . 
+1942 - About 1,100 people are killed and 5,000 buildings are destroyed or damaged in the Erbaa - Niksar area by a quake measuring 7.3 . 
+1943 - About 75 percent of houses are destroyed or damaged in the Ladik - Vezirkopru area and nearly 4,000 people are killed in a quake measuring 7.6 . February 1 , 1944 - 2,790 people are killed and 50,000 houses destroyed or heavily damaged in the North Anatolian Fault Zone from Bolu through Gerede to Kursunlu in an earthquake of 7.4 magnitude . 
+May 31 , 1946 - A 5.9 quake hits Ustrukan , killing 1,300 . 
+1953 - A quake strikes the Can - Yenice - Gonen area . 
+The 7.3 magnitude quake is felt throughout the Aegean Islands and in much of mainland Greece , and kills 1,070 people . ","Turkey|14;8|0;1|LOC|loc
+Thursday|15|0|TIME|None
+days|17|0|TIME|None
+7.2 magnitude|20 21|0|MAG|mag
+at least 520 people|28 29 30 31|0|NUM|death
+December 26 , 1939 - Around|14 15 16 17 18 19|1|TIME|None
+Around 32,700 people|19 20 21|1|NUM|None
+Erzincan|29|1|LOC|None
+7.8 magnitude|34 35|1|MAG|None
+1942 - About 1,100 people|0 1 2 3 4|2|NUM|None
+5,000 buildings|8 9|2|NUM|None
+the Erbaa -|15 16 17|2|LOC|None
+7.3|24|2|NUM|None
+1943|0|3|TIME|None
+Ladik|13|3|LOC|None
+Vezirkopru|15|3|LOC|None
+nearly 4,000 people|18 19 20|3|NUM|None
+7.6 . February|27 28 29|3|NUM|None
+February 1 , 1944 -|29 30 31 32 33|3|TIME|None
+50,000 houses|39 40|3|NUM|None
+the North Anatolian Fault|46 47 48 49|3|LOC|None
+Bolu|52|3|LOC|None
+Gerede|54|3|LOC|None
+Kursunlu|56|3|LOC|None
+7.4 magnitude|61 62|3|MAG|None
+May 31 ,|0 1 2|4|TIME|None
+5.9 quake|6 7|4|NUM|None
+Ustrukan|9|4|LOC|None
+1,300|12|4|NUM|None
+1953|0|5|TIME|None
+Gonen|10|5|LOC|None
+7.3 magnitude|1 2|6|MAG|None
+the Aegean|7 8|6|LOC|None
+Greece|15|6|LOC|None
+1,070 people|19 20|6|NUM|None
+"
+2011 Van earthquakes,10/23/2011,10/23/2011,"Turkey earthquake 2011 death toll rises: 270 killed and over 1,300 injured","Frantic search for survivors continues as 272 killed and more than 1,300 injured after buildings collapse in Turkish earthquake Hundreds more missing after 7.2 - magnitude quake Rescue efforts continue to free ' many people ' still trapped Injured have to be treated outdoors as hospital buildings are damaged Foreign Secretary William Hague offers UK help A desperate rescue operation is continuing today in a bid to contain the death toll following a powerful earthquake in eastern Turkey . 
+The 7.2 - magnitude tremor devastated parts of Van province in the east of the country , collapsing hundreds of buildings into piles of twisted steel and chunks of concrete . In the immediate aftermath of the quake desperate survivors dug into the rubble with their bare hands , trying to rescue the trapped and injured . The worst hit area was Ercis , a town of 75,000 close to the Iranian border in one of Turkey 's most earthquake - prone zones , where more than 100 buildings have collapsed . 
+Dangerous work : Local residents risk their lives by digging into crushed floors in Turkey 's south - eastern province of Van . 
+They defied collapsing buildings and aftershocks today in a bid to reach trapped victims Survivors : 
+Amid the tragic death toll are amazing stories of people surviving the quake against all odds Grief stricken : 
+A man weeps as he holds the body of his young daughter , during a makeshift burial at a cemetery in Ercis , one of the hardest hit cities Sources say 272 have been confirmed killed and more than 1,300 injured , but officials estimate that the death toll could rise further as a result of low housing standards in the area and the size of the quake . 
+Ten of the victims were students learning about the Quran at a religious school that collapsed . ","272|6;31|0;5|NUM|death
+more than 1,300|9 10 11;37 38 39|0;5|NUM|injure
+Hundreds|19|0|NUM|None
+7.2 - magnitude|23 24 25;1 2 3|0;1|MAG|mag
+UK|54|0|LOC|None
+today|62;6|0;3|TIME|None
+Turkey|77;76;14|0;1;2|LOC|None
+Van|8;21|1;2|LOC|loc
+hundreds|18|1|NUM|None
+Ercis|62;21|1;5|LOC|None
+75,000|67|1|NUM|None
+more than 100 buildings|85 86 87 88|1|NUM|None
+one|23|5|NUM|None
+Ten|0|6|NUM|None
+"
+2011 Van earthquakes,10/23/2011,10/23/2011,Timeline: World's recent major earthquakes,"( Reuters ) - Up to 1,000 people were possibly killed in a powerful earthquake in southeast Turkey ’s Van province on Sunday , media reported the Kandilli Observatory as saying . 
+Here is a short timeline of some of the world ’s recent major quakes in the last 10 years : Jan 26 , 2001 - INDIA - An earthquake of magnitude 7.7 strikes the western state of Gujarat killing at least 19,700 people and causing damage in neighbouring Pakistan . 
+The quake affected 15.9 million people in 7,904 villages . 
+May 21 , 2003 - ALGERIA - A magnitude 6.7 earthquake strikes Algiers and nearby towns to the east , killing 2,251 and injuring 10,243 . 
+Dec 26 , 2003 - IRAN - A magnitude 6.8 earthquake strikes the historic city of Bam , 1,000 km ( 600 miles ) southeast of Tehran . 
+Some 30,948 people were killed in the quake . 
+Dec 26 , 2004 - ASIA - The number of dead and missing in an Asian earthquake and tsunami reaches almost 230,000 . ","Up to 1,000 people|4 5 6 7|0|NUM|death
+Turkey|17|0|LOC|loc
+Van|19|0|LOC|loc
+Sunday|22|0|TIME|None
+the last 10|15 16 17|1|TIME|None
+Jan 26 , 2001 - INDIA -|20 21 22 23 24 25 26|1|TIME|None
+magnitude 7.7|30 31|1|MAG|None
+Gujarat|37|1|LOC|None
+at least 19,700 people|39 40 41 42|1|NUM|None
+Pakistan|48|1|LOC|None
+15.9 million people|3 4 5|2|NUM|None
+7,904 villages|7 8|2|NUM|None
+May 21 ,|0 1 2|3|TIME|None
+magnitude 6.7|8 9|3|MAG|None
+Algiers|12|3|LOC|None
+2,251|21|3|NUM|None
+10,243|24|3|NUM|None
+Dec 26 ,|0 1 2|4|TIME|None
+IRAN|5|4|LOC|None
+magnitude 6.8|8 9|4|MAG|None
+Bam|16|4|LOC|None
+1,000 km ( 600 miles|18 19 20 21 22|4|NUM|None
+Tehran|26|4|LOC|None
+Some 30,948 people|0 1 2|5|NUM|None
+Dec 26 , 2004 -|0 1 2 3 4|6|TIME|None
+almost 230,000|20 21|6|NUM|None
+"
+2011 Christchurch earthquake,2/22/2011,,Christchurch quake: Fears toll will rise sharply as night falls,"Did you feel the quake ? 
+Tell us your story , send us your photos and video . 
+At least 100 people remain trapped in the ruins of Christchurch tonight following a devastating earthquake which claimed at least 65 lives . Construction workers and search and rescue specialists are toiling under floodlights on a cold and wet night to dig out survivors and the dead from buildings flattened by the earthquake that ripped the city apart today . Prime Minister 
+Key announced tonight that "" at least 65 people have lost their lives "" and noted the rescuers were still scrabbling through the ruins of collapsed buildings looking for injured and trapped survivors - and bodies . Christchurch 
+Mayor Bob Parker tonight said more than 100 people were trapped in about six sites - but it was possible more were trapped in individual houses . TV3 has had unconfirmed reports that the death toll could reach between 200 and 300 . The Government is holding a press conference at 5.30 am this morning where more details will be revealed . 
+This is likely to include an updated death toll . Police have launched a hotline , 0800 779997 , that people can call to report missing people . The death toll is already the second highest in a New Zealand earthquake - outranked only by the 256 people who died in the violent 7.9 1931 Hawke 's Bay quake , whose 70th anniversary was marked earlier this month . Police have reported "" multiple fatalities "" at several locations in the downtown area , including where two buses were crushed by falling buildings . Today 's shake , measured at magnitude 6.3 , followed the massive 7.1 tremor last September 4 . 
+That one struck in the early hours of the morning and no one was killed . Today 's earthquake jolted the city at 12.51 pm , the worst possible time with the central city packed with lunch - hour shoppers , office workers and many school children . Victims were crushed to death as buildings collapsed , many of them weakened in last year 's event . The quake was not as powerful as the September 4 shake but was much shallower , leading to greater damage . Scientists put the epicentre at 10 km southeast of the city - apparently in the middle of the harbour at Lyttelton , the city 's coastal port - at a depth of only 5 km . About 30 people were thought to be trapped in the Pyne Gould Guinness building , its several floors pancaked on each other and tilted at a crazy angle . In the ruined CTV television building a number of Japanese students , newly arrived in Japan , were believed to be in the rubble . One injured man rescued from the building was quoted as saying he could hear other people talking . The famous cathedral in the city 's downtown square which stood undamaged last September lost its spire today and suffered heavy damage . Reports that people were in the spire when it tumbled into the church itself and the square outside could not be verified immediately . Police superintendent Dave Cliff said one police staff member was unaccounted for . "" We are doing everything possible to free people who are trapped , "" he aid . Mr Key flew to Christchurch this afternoon and after a quick tour of the city described it as "" utterly wrecked "" , adding "" this is an absolute tragedy for Christchurch "" . "" We may well be witnessing New Zealand 's darkest day , "" he said . Graphic photographs on television showed blood - splattered survivors scrambling from downed buildings or crawling from under shattered shop verandahs that had fallen on to city footpaths . Crushed cars lined parking spaces , masonry scattered across roads . Mr Parker , lauded for his behaviour and slick civic control in the wake of last year 's quake , said the damage today was much more severe . "" The city centre is like a war zone and damage is immense . ","At least 100 people|0 1 2 3|2|NUM|None
+Christchurch|10;37;277;304|2;3;6;6|LOC|loc
+tonight|11;2;3|2;3;4|TIME|None
+at least 65 lives|18 19 20 21|2|NUM|death
+night|39|2|TIME|None
+today|58;213;385|2;6;6|TIME|None
+at least 65 people|5 6 7 8|3|NUM|death
+more than 100 people|5 6 7 8|4|NUM|None
+about six sites|12 13 14|4|NUM|None
+between 200 and 300|38 39 40 41|4|NUM|None
+5.30 am this|51 52 53|4|TIME|None
+0800|16|5|TIME|None
+New|38|5|LOC|None
+256 people|46 47|5|NUM|None
+earlier this|65 66|5|TIME|None
+two buses|86 87|5|NUM|None
+Today|94;16|5;6|TIME|None
+magnitude 6.3|100 101|5|MAG|mag
+7.1 tremor|106 107|5|NUM|None
+last September|108 109|5|TIME|None
+the early hours of the|4 5 6 7 8|6|TIME|None
+12.51|23|6|TIME|None
+last year|62 63;377 378|6;6|TIME|None
+September|75|6|TIME|None
+10 km|93 94|6|NUM|None
+Lyttelton|108|6|LOC|None
+only 5 km|120 121 122|6|NUM|None
+About 30 people|124 125 126|6|NUM|None
+Japan|168|6|LOC|None
+One injured man|178 179 180|6|NUM|None
+last|208|6|TIME|None
+one police staff member|248 249 250 251|6|NUM|None
+this|278|6|TIME|None
+New Zealand|313 314|6|LOC|None
+"
+2011 Christchurch earthquake,2/22/2011,1/1/1970,Earthquake in New Zealand,"AT 12:51 pm local time an earthquake shattered Christchurch , killing at least 65 people in New Zealand 's second - largest city . 
+With many more of its 380,000 residents reported to be trapped or missing , that toll is sure to rise . 
+Key , the prime minister , rushed to the city and soon judged that this might rank as his country 's “ darkest day ” . 
+As a rule , events in New Zealand tend not to trouble the international news pages . 
+That has changed lately , with a run of horror stories from the country 's South Island . 
+First came an earthquake that struck Christchurch last September . 
+Despite extensive damage , no deaths resulted . ","12:51|1|0|TIME|None
+Christchurch|8;6|0;5|LOC|loc
+at least 65 people|11 12 13 14|0|NUM|death
+New Zealand|16 17|0|LOC|loc
+380,000 residents|5 6|1|NUM|None
+New|6|3|LOC|None
+South|15|4|LOC|None
+last|7|5|TIME|None
+"
+2011 Christchurch earthquake,2/22/2011,2/22/2011,Christchurch earthquake: In their own words,"Multiple fatalities have been reported after a powerful 6.3 - magnitude earthquake struck Christchurch on New Zealand 's South Island . 
+Residents in the area have described their experiences and the damage the earthquake caused . "" It makes the September one just a tiny ripple here . 
+Without exaggeration , we all thought it was maybe a 10 because literally the whole house moved . 
+We were thrown against the wall , thrown around the room , just absolutely terrifying . "" 
+- Chris Brown from Lyttelton "" I was on the fourth floor and I was just coming out of the toilets and I got thrown backwards , down and landed into the third floor . 
+I did n't really know what happened and then I heard some people screaming out which were on the second or third floor and managed to pull them out . 
+There was a guy on the second floor that was covered to his waist with concrete and stuff . ","6.3 - magnitude|8 9 10|0|MAG|mag
+Christchurch|13|0|LOC|loc
+New Zealand|15 16|0|LOC|loc
+South|18|0|LOC|None
+September|19|1|TIME|None
+10|10|2|TIME|None
+Lyttelton|4|4|LOC|None
+"
+2011 Christchurch earthquake,2/22/2011,,Christchurch earthquake: parts of city to be abandoned,"The magnitude 6.3 quake that hit on February 22 shattered homes , heritage buildings and office blocks , and caused 166 confirmed deaths . 
+Officials expect the toll to rise to more than 200 as rescuers continue to search for bodies in the rubble . 
+John Key , the New Zealand prime minister , said some 10,000 houses will have to be demolished in the city , including 3,300 that were damaged by an earlier magnitude 7.1 quake on Sept. 4 that caused far less damage . 
+Several hundred commercial buildings in the downtown area also will have to be bulldozed , he said . "" Potentially there are some ... areas of Christchurch which will need to be abandoned and we will have to provide other alternatives for people to live in because the land has been so badly damaged , we ca n't fix it – certainly not in a reasonable time frame , "" he said . 
+Earthquakes can cause sections of earth to liquefy and push up to the surface as watery silt , a process called liquefaction . 
+In Christchurch , 260,000 tons of silt have already been scraped away . "" There are some parts of Christchurch that ca n't be rebuilt on "" due to damage from liquefaction , Mr Key said . 
+He said modular homes will be brought in to provide temporary housing for some of the many thousands of displaced . ","magnitude 6.3|1 2|0|MAG|mag
+February|7|0|TIME|None
+166 confirmed deaths|20 21 22|0|NUM|death
+more than 200|7 8 9|1|NUM|death
+New|4|2|LOC|None
+10,000 houses|11 12|2|NUM|None
+3,300|23|2|NUM|None
+magnitude 7.1|30 31|2|MAG|None
+Sept.|34|2|TIME|None
+Several hundred commercial buildings|0 1 2 3|3|NUM|None
+Christchurch|26;1;19|3;5;5|LOC|loc
+260,000 tons|3 4|5|NUM|None
+the many thousands|15 16 17|6|NUM|None
+"
+2011 Christchurch earthquake,2/22/2011,,Getting the power back on after Christchurch earthquake,"Ninety - eight percent of Christchurch households , excluding the central business district , have had power restored following the region 's devastating magnitude 6.3 earthquake . About 7400 customers were still without power , lines company Orion said , down from 8900 yesterday . Most properties in the CBD could not reconnected yet due to restricted access . The number of residents without power might start to fluctuate on a daily basis , and people should be prepared for further power cuts , Orion said . The company continued to find new faults and the network in the eastern suburbs remained extremely fragile . 
+Meanwhile , water has been restored to 84 percent of households and the council hopes that figure will rise to 98 percent by Friday . However , it would take at least two weeks before the water supply was safe and that included water sourced from taps , tankers , private wells or aquifers , Medical Officer of Health Ramon Pink said . People still needed to be careful using water for drinking , brushing teeth or preparing food , Dr Pink said . The DHB was helping the council undertake an extensive water testing programme . People should also continue to conserve water , he said . ","Christchurch|5|0|LOC|loc
+6.3 earthquake|24 25|0|NUM|mag
+About 7400 customers|27 28 29|0|NUM|None
+8900|42|0|NUM|None
+yesterday|43|0|TIME|None
+Friday|23|1|TIME|None
+at least two|30 31 32|1|TIME|None
+"
+2011 Christchurch earthquake,2/22/2011,,Christchurch quake mapped from space,"The coloured bands , or fringes , represent movement towards or away from the spacecraft The upheaval wrought by the 22 February earthquake in Christchurch , NZ , is illustrated in new radar imagery . 
+The Magnitude 6.3 tremor killed more than 160 people and shattered a city already reeling from a previous seismic event in September . 
+Data from the Japanese Alos spacecraft has been used to map the way the ground deformed during the most recent quake . 
+It shows clearly that the focus of the tremor was right under the city 's south - eastern suburbs . 
+The type of image displayed on this page is known as a synthetic aperture radar interferogram . 
+To get an earthquake right under their city will have been a surprise to nearly every single person John Elliott , Oxford University It is made by combining a sequence of radar images acquired by an orbiting satellite "" before "" and "" after "" a quake . 
+The technique allows very precise measurements to be made of any ground displacement that takes place between the image acquisitions . ","Christchurch|24|0|LOC|loc
+NZ|26|0|LOC|None
+more than 160 people|5 6 7 8|1|NUM|death
+September|21|1|TIME|None
+"
+2011 Christchurch earthquake,2/22/2011,,Quake shakes 30m tonnes of ice off glacier,"The magnitude 6.3 earthquake that devastated Christchurch was strong enough to shake 30 million tonnes of ice loose from Tasman Glacier at Aoraki Mt Cook National Park . Passengers of two explorer boats were hit with waves of up to 3.5 metres as the ice crashed into Terminal Lake under the Tasman Glacier at the mountain . Aoraki Mount Cook Alpine Village tourism manager Denis Callesen said huge icebergs formed in the lake , which were then rocked by massive waves for 30 minutes . The danger to passengers could have been worse if not for safety proceedures put in place when it was suspected the area was becoming unstable , he said . "" We have procedures to deal with this type of event and for some time have stayed 800 metres away from the Terminal Face as we suspected it was becoming unstable , "" he said . It was the third biggest amount of ice to fall in the history of the Terminal Lake , which is now over six kilometres long and two kilomtres wide in places , said Mr Callesen . He said today 's aftershock was the first quake felt at the Aoraki Mt Cook since the major quake last September . - NZ Herald Staff ","magnitude 6.3|1 2|0|MAG|mag
+Christchurch|6|0|LOC|loc
+30 million tonnes|12 13 14|0|NUM|None
+Tasman|19|0|LOC|None
+two explorer boats|30 31 32|0|NUM|None
+up to 3.5 metres|38 39 40 41|0|NUM|None
+Terminal|47|0|LOC|None
+the Tasman|50 51|0|LOC|None
+30|82|0|TIME|None
+800 metres|131 132|0|NUM|None
+the Terminal|164 165|0|LOC|None
+six kilometres|172 173|0|NUM|None
+two kilomtres|176 177|0|NUM|None
+today|188|0|TIME|None
+the Aoraki Mt|197 198 199|0|LOC|None
+last|205|0|TIME|None
+"
+2011 Christchurch earthquake,2/22/2011,2/22/2011,New Zealand earthquake: A mother's last message from beneath Christchurch rubble,"'I 'm not going to give up ' : 
+Mother 's last message to rescuers from beneath Christchurch earthquake rubble before her mobile phone battery runs out ' Ten Brits feared dead ' as bodies litter the streets At least 75 dead but toll ' will be considerably higher than that '- 
+More than 12 large buildings completely collapse , 15 victims die in one alone Earthquake is deadliest New Zealand natural disaster for 80 years Race against time to free estimated 100 people under the rubble PM John Key declares national emergency as he says : ' It 's heartbreaking ' Rescuers were frantically sifting through the rubble of Christchurch today as survivors continued to cry for help as they entered their 24th hour trapped beneath rubble . 
+Victims continued to send text messages , tap rubble and shout for help as emergency services tried to find them in streets littered with bodies . One woman was found alive after sheltering beneath her desk in the ruined Pyne Gould building , but fears were growing for mother Ann Voss who had given numerous media interviews from beneath her desk underneath the same pile of ruins . Miss Voss 's phone battery died after she told journalists that she had ' said goodbye ' to her children . Shock : A man holds a young girl in his arms after the earthquake in Christchurch , New Zealand Search : rescue workers are sifting through rubble as survivors continue to cry for help after 24 hours trapped beneath rubble after a 6.3 magnitude earthquake hit Christchurch Get me out : Rescuers on top of Christchurch 's Pyne Gould building where Anne Voss is trapped with 30 others Pulled free : 
+One woman was taken from the wreckage of the office building where Miss Voss heard others screaming for help DAVID CAMERON CRITICISED OVER CONDOLENCES SE NT BY TEXT David Cameron has been criticised for sending a text message to express his condolences for the New Zealand earthquake . 
+Former Labour foreign office minister Denis MacShane expressed horror that British diplomacy was now carried out in such a manner . 
+But Downing Street said Mr Cameron is close friends with New Zealand premier John Key – and the only reason he texted rather than telephoned was because he knew Mr Key would be busy dealing with the aftermath of the tremor . No 10 released the text of a written letter he later sent to Mr Key – to show that he did not purely converse with world leaders by text and said Mr Cameron had phoned his counterpart last night . Mr Cameron , who is touring the Middle East , sent the initial message as soon as he learned of New Zealand ’s worst natural disaster in almost a century . ","Christchurch|8;58;104;135;144|1;2;3;3;3|LOC|loc
+Ten Brits|19 20|1|NUM|None
+At least 75 dead|29 30 31 32|1|NUM|death
+More than 12 large buildings|0 1 2 3 4|2|NUM|None
+15 victims|8 9|2|NUM|None
+one alone Earthquake|12 13 14|2|NUM|None
+New|17;106;44;10;102|2;3;4;6;6|LOC|None
+80|22|2|TIME|None
+100 people|30 31|2|NUM|None
+today|59|2|TIME|None
+24th|71|2|TIME|None
+One woman|26 27;0 1|3;4|NUM|None
+24|124|3|TIME|None
+6.3 magnitude|131 132|3|MAG|None
+30 others|155 156|3|NUM|None
+10|43|6|NUM|None
+last|79|6|TIME|None
+the Middle|88 89|6|LOC|None
+almost a|109 110|6|TIME|None
+"
+2011 Christchurch earthquake,2/22/2011,,Christchurch earthquake may affect Rugby World Cup,"Among the hundreds of buildings damaged by the quake , which claimed at least 65 lives , was the city ’s AMI Stadium , where England are scheduled to open their Rugby World Cup campaign against Argentina on Sept 10 . The stadium , which had been playing host to a business and community forum when the quake struck , suffered superficial damage in the first earthquake last September . 
+The extent of any new damage was not immediately clear , although some reports suggested that cracks had been spotted in the structure . The Crowne Plaza , the five - star hotel allocated to Martin Johnson ’s squad was also damaged by the quake , which measured 6.3 on the Richter Scale . 
+The hotel had been hosting a health conference when the earthquake struck . 
+Dr David Malouf , president of the Urological Society of Australia and New Zealand , who was one of the delegates , has said it felt like a wrecking ball was being smashed into the side of the building as the ground shook for almost a minute . “ The whole building started to shake , violently shaking to the point where , if you were trying to stand up , you would fall over , ” said Dr Malouf , who said the quake had left cracks in buildings and fissures in the roads . 
+The hotel has been evacuated to allow engineers to assess the damage . 
+Christchurch is due to stage seven matches , including England ’s second pool match against Georgia on Sept 18 and Scotland 's match against Argentina on Sept 25 . Two of the four quarter - final matches , on Oct 8 and 9 , are also scheduled to be played in the city , the latter which will feature the winner of the pool containing England and Scotland . 
+A Rugby World Cup fan zone has been planned for the city ’s Cathedral Square . ","hundreds|2|0|NUM|None
+at least 65 lives|12 13 14 15|0|NUM|death
+England|25;9;65|0;5;5|LOC|None
+Argentina|36;24|0;5|LOC|None
+Sept|38;17;26|0;5;5|TIME|None
+last|67|0|TIME|None
+five - star|29 30 31|1|NUM|None
+6.3|48|1|NUM|None
+New|12|3|LOC|None
+one|17|3|NUM|None
+almost a|44 45|3|TIME|None
+Christchurch|0|5|LOC|loc
+seven matches|5 6|5|NUM|None
+Georgia|15|5|LOC|None
+Scotland|20;67|5;5|LOC|None
+Two|29|5|NUM|None
+four|32|5|NUM|None
+quarter|33|5|NUM|None
+Oct 8 and|39 40 41|5|TIME|None
+"
+2011 Christchurch earthquake,2/22/2011,,New Zealand earthquake: 65 dead in Christchurch,"Media playback is unsupported on your device Media caption Eyewitness Tania Galbraith : "" The whole building began to shake and it just would n't stop "" New Zealand 's prime minister says at least 65 people have died after a 6.3 - magnitude earthquake hit Christchurch . John 
+Key said the toll was expected to rise further , adding : "" We may be witnessing New Zealand 's darkest day . "" 
+The tremor caused widespread damage as it occurred at a shallow depth of 5 km ( 3.1 miles ) during lunchtime when Christchurch was at its busiest . 
+The mayor of New Zealand 's second - biggest city says 120 people have been rescued from the ruins . 
+The country 's deadliest natural disaster in 80 years struck at 1251 ( 2351 GMT on Monday ) , 10 km ( 6.2 miles ) south - east of the city . 
+Screams from rubble The damage is said to be far worse than after the 7.1 - magnitude quake on 4 September , which left two people seriously injured but no fatalities . 
+We 've had friends in town call us and say there are just bodies lying around : lots of dead bodies outside shops just lying there just covered in bricks ","New Zealand|27 28;17 18;3 4|0;1;3|LOC|None
+at least 65 people|33 34 35 36|0|NUM|death
+6.3 - magnitude|41 42 43|0|MAG|mag
+Christchurch|46;22|0;2|LOC|loc
+5 km ( 3.1 miles|13 14 15 16 17|2|NUM|None
+120 people|11 12|3|NUM|None
+80|7|4|TIME|None
+1251 ( 2351|11 12 13|4|TIME|None
+Monday|16|4|TIME|None
+10 km ( 6.2 miles|19 20 21 22 23|4|NUM|None
+7.1 - magnitude|14 15 16|5|MAG|None
+4|19|5|TIME|None
+two people|24 25|5|NUM|None
+"
