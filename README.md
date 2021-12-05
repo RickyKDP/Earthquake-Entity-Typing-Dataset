@@ -16,9 +16,8 @@ Entity texts | Start index, End index in the sentence | Located sentence index |
 
 In this dataset, there are five fine-grained entity types.
 
-  label  |  class meaning  
-  death  |  death number (earthquake casualty)
-   mag   |  earthquake magnitude
-   loc   |  earthquake happening location
-  injure |  injure number (earthquake casualty)
-   None  |  Task-unrelated entities
+  death:  death number (earthquake casualty)
+    mag:  earthquake magnitude
+    loc:  earthquake happening location
+ injure:  injure number (earthquake casualty)
+   None:  task-unrelated entities
